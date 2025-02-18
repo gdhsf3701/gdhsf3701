@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Profile </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 새로운 개념의 개발자가 되겠습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 시작은 미약하나, 창의력으로 그 빈칸을 채우는 개발자가 되겠습니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
